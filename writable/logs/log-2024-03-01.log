@@ -1,0 +1,4 @@
+CRITICAL - 2024-03-01 03:25:26 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp1\htdocs\zaesenn\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp1\htdocs\zaesenn\spark(45): require('C:\\xampp1\\htdoc...')
+#2 {main}
